@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Rishi</h1>
-<h4 align="center">freelance MERN stack developer</h4>
+<h4 align="center">22 | freelance Full-stack developer🎓💻</h4>
 </div>
 
 <h2>My Stats</h2>
