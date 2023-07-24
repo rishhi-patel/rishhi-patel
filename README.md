@@ -5,7 +5,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/rishi-patel-a0a7021a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-patel-a0a7021a1" height="30" width="40" /></a>
-<a href="https://instagram.com/rishhi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishhi._" height="30" width="40" /></a>
+<a href="https://instagram.com/firefistfenyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firefistfenyx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
