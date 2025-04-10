@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
-<h3 align="center">I am freelance full stack developer. I provide comprehensive software solutions to help businesses enhance their digital platforms and solve complex technical challenges. With over three years of experience ,the one who led teams and projects from conception to deployment.</h3>
+<h3 align="center">I am a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishhi-patel&label=Profile%20views&color=0e75b6&style=flat" alt="rishhi-patel" /> </p>
 
